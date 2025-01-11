@@ -41,7 +41,7 @@ Escolha um horário se quiser me encontrar e conversar sobre qualquer assunto qu
 </a>
 
 <a href="https://github.com/mamura/gandAuth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mamura&repo=gandauth&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="gandAuth" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mamura&repo=php82-node16&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Docker Image PHP82-Node16" />
 </a>
 <p></p>
 <div>
