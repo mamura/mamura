@@ -1,7 +1,7 @@
 # 👋 Hello there!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></img>
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=mamura.mamura)]
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mamura.mamura)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Twitter Follow](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/follow?screen_name=mamura)
 [![Linkedin: mamura](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciomota-mamura/)
